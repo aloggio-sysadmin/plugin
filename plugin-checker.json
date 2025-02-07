@@ -1,6 +1,6 @@
 {
     "name": "Homhero Data",
-    "version": "1.0",
+    "version": "2.0",
     "last_updated": "2025-02-17 12:00:00",
     "sections": {
       "description": "This plugin syncs listing data with Homhero."
