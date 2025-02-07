@@ -1,0 +1,11 @@
+{
+    "name": "Homhero Data",
+    "version": "2.92",
+    "requires": "5.0",
+    "tested": "6.7",
+    "requires_php": "8.0",
+    "last_updated": "2024-11-14 12:00:00",
+    "sections": {
+      "description": "This plugin syncs listing data with Homhero."
+    }
+  }
